@@ -1,0 +1,25 @@
+motor mount location (distance from prop clearance vertically and cg front to back)
+lock in wood and 3d printed with a singular bolt (locate and affix at the same time with the side plate)
+make slot to drop in hex nut instead of trying to integrate (makes it easier to print)
+make sure to balance the wood-3d print thickness at the location where the nose cone and wood side plate meet
+
+blend the fuselage into the wings (no right angles on meet)
+bottom may be filet(but not plain filet, tapers downward them filets), top could taper to meet more gradually with top of fuselage
+
+tail boom interface for 20 by 20 carbon tube still needs done
+all that is not done is axial constraint (literally just put two bolts through the damn thing)
+3d print the part ("block with a hole through it")
+Tail boom interface with fuselage ("block of material in between two side plates (the block of material will be the 3d printed tail boom interference))
+-have the side plate try to follow the back shape of the fuselage (back taper)
+-try not to make things too large (except the side plates, they are the big load paths, justifiable to make it bigger into one piece)
+
+ribs (parallel with ground plates means monokote is supported all the way to the back)
+the best solution is both par and perp, but for our purpose parallel with ground ribs are best, with one or two ribs going up and down
+
+for back section, carve foam block for shape on the back section
+
+vertical ribbing further forward on the fuselage but any further back will be foam-sideplate-tail boom interface-sideplate-foam
+
+sketch out bays in same sketch as wing sketch
+
+instead of extruding wing sketch, loft and mirror instead
